@@ -12,6 +12,4 @@
     align-items: center;
   }
 }
-
-
 </style>
